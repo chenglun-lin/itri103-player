@@ -1,0 +1,12 @@
+/jni/ffmpeg-build/**
+/bin/**
+/local.properties
+/gen/**
+/tmp/**
+/obj/**
+/libs/**
+/proguard/**
+/.settings/**
+/jni/.settings/**
+/lint.xml
+/jni/libyuv/**
