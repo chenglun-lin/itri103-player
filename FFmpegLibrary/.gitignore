@@ -4,7 +4,6 @@
 /gen/**
 /tmp/**
 /obj/**
-/libs/**
 /proguard/**
 /.settings/**
 /jni/.settings/**
