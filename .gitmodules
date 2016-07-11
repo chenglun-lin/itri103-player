@@ -3,22 +3,22 @@
 	url = git://source.ffmpeg.org/ffmpeg.git
 [submodule "FFmpegLibrary/jni/vo-aacenc"]
 	path = FFmpegLibrary/jni/vo-aacenc
-	url = git://opencore-amr.git.sourceforge.net/gitroot/opencore-amr/vo-aacenc
+	url = git://git.code.sf.net/p/opencore-amr/vo-aacenc
 [submodule "FFmpegLibrary/jni/vo-amrwbenc"]
 	path = FFmpegLibrary/jni/vo-amrwbenc
-	url = git://opencore-amr.git.sourceforge.net/gitroot/opencore-amr/vo-amrwbenc
+	url = git://git.code.sf.net/p/opencore-amr/vo-amrwbenc
 [submodule "FFmpegLibrary/jni/x264"]
 	path = FFmpegLibrary/jni/x264
 	url = git://git.videolan.org/x264.git
 [submodule "FFmpegLibrary/jni/tropicssl"]
 	path = FFmpegLibrary/jni/tropicssl
-	url = https://review.appunite.com/tropicssl.git
+	url = https://github.com/appunite/tropicssl.git
 [submodule "FFmpegLibrary/jni/libass"]
 	path = FFmpegLibrary/jni/libass
-	url = https://code.google.com/p/libass/
+	url = https://github.com/libass/libass.git
 [submodule "FFmpegLibrary/jni/fribidi"]
 	path = FFmpegLibrary/jni/fribidi
-	url = https://review.appunite.com/fribidi.git
+	url = https://github.com/appunite/fribidi.git
 [submodule "FFmpegLibrary/jni/freetype2"]
 	path = FFmpegLibrary/jni/freetype2
 	url = git://git.sv.gnu.org/freetype/freetype2.git
